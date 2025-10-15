@@ -20,7 +20,7 @@ sse_crawler_env\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 运行爬虫：
+## 开始运行
 
 ```
 python sse_crawler.py
