@@ -24,7 +24,8 @@ pip install -r requirements.txt
 ## 开始运行
 
 ```
-python sse_crawler.py
+python sse_pdf_crawler.py
 ```
 
 输入六位数股票代码根据菜单提示操作即可。
+下载文件在当前目录自动创建的股票代码文件夹下。
