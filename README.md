@@ -8,6 +8,7 @@ git clone https://github.com/xiongking/sse_crawler.git
 
 ## 创建虚拟环境
 ```
+cd sse_crawler
 python -m venv sse_crawler_env
 ```
 ## 进入虚拟环境
